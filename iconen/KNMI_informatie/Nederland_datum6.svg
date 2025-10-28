@@ -2,10 +2,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-flat.dtd"
 [
 <!ATTLIST g xmlns:fme CDATA #FIXED "http://www.safe.com/fme" >
-<!ATTLIST path fme:statnaam CDATA #IMPLIED >
-<!ATTLIST ellipse fme:statnaam CDATA #IMPLIED >
-<!ATTLIST text fme:statnaam CDATA #IMPLIED >
-<!ATTLIST use fme:statnaam CDATA #IMPLIED >
+<!ATTLIST path fme:generation_timestamp CDATA #IMPLIED fme:statnaam CDATA #IMPLIED >
+<!ATTLIST ellipse fme:generation_timestamp CDATA #IMPLIED fme:statnaam CDATA #IMPLIED >
+<!ATTLIST text fme:generation_timestamp CDATA #IMPLIED fme:statnaam CDATA #IMPLIED >
+<!ATTLIST use fme:generation_timestamp CDATA #IMPLIED fme:statnaam CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg"  viewBox="-3305.76 -3305.76 271072 318997"><g xmlns:fme="http://www.safe.com/fme" fill="none" stroke="black" stroke-width="33.05758625" transform="translate(0,312385) scale(1, -1)">
 <g id="Passed" style="fill:green;stroke:#000000;stroke-width:100" >
