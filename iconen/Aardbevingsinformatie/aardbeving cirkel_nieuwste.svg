@@ -45,13 +45,13 @@
      id="layer1"
      transform="translate(0.67095184,1.061697)">
     <circle
-       style="fill:#0b1218;fill-opacity:0.445783"
+       style="fill:#000000;fill-opacity:0.60240966"
        id="path1"
        cy="23.938303"
        cx="24.329048"
        r="25" />
     <path
-       style="fill:#13202a;fill-opacity:0.445783"
+       style="fill:#ffffff;fill-opacity:0.75100404"
        id="path1-8"
        sodipodi:type="arc"
        sodipodi:cx="24.496145"
@@ -64,7 +64,7 @@
        sodipodi:arc-type="arc"
        d="M 44.493337,23.690577 A 20,20 0 0 1 24.837985,44.022788 20,20 0 0 1 4.4991826,24.374257 20,20 0 0 1 24.14089,4.0288646 20,20 0 0 1 44.49287,23.663747" />
     <path
-       style="fill:#274156;fill-opacity:0.445783"
+       style="fill:#000000;fill-opacity:0.82329315"
        id="path1-8-5"
        sodipodi:type="arc"
        sodipodi:cx="24.604113"
@@ -77,11 +77,17 @@
        sodipodi:arc-type="arc"
        d="M 39.602007,23.689525 A 15,15 0 0 1 24.860493,38.938683 15,15 0 0 1 9.6063906,24.202285 15,15 0 0 1 24.337671,8.9432407 15,15 0 0 1 39.601656,23.669402" />
     <circle
-       style="fill:#111d26;fill-opacity:0.445783"
+       style="fill:#ffffff;fill-opacity:0.77911645"
        id="path1-8-5-1"
        cx="24.59897"
        cy="23.992287"
        r="10" />
+    <circle
+       style="fill:#ffffff;fill-opacity:0.779116"
+       id="path1-8-5-1-8"
+       cx="24.341902"
+       cy="23.925449"
+       r="1" />
   </g>
   <metadata
      id="metadata2">
