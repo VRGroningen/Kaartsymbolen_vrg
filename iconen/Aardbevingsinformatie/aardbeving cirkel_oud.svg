@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="31.000084"
-   height="31.000086"
-   viewBox="0 0 31.000084 31.000086"
+   width="52"
+   height="52"
+   viewBox="0 0 52 52"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="24.3125"
-     inkscape:cx="14.910026"
-     inkscape:cy="15.568123"
+     inkscape:zoom="12.15625"
+     inkscape:cx="-5.7172236"
+     inkscape:cy="32.946015"
      inkscape:window-width="3440"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -43,9 +43,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-9.1040695,-8.4408293)">
+     transform="translate(1.6709518,2.061697)">
     <circle
-       style="fill:#01a0ff;fill-opacity:0.445783;stroke:#000000;stroke-opacity:1"
+       style="fill:#01a0ff;fill-opacity:0.445783;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
        cy="23.938303"
        cx="24.329048"
@@ -64,7 +64,7 @@
        sodipodi:arc-type="arc"
        d="M 44.493337,23.690577 A 20,20 0 0 1 24.837985,44.022788 20,20 0 0 1 4.4991826,24.374257 20,20 0 0 1 24.14089,4.0288646 20,20 0 0 1 44.49287,23.663747" />
     <path
-       style="fill:#00a2ff;fill-opacity:0.445783;stroke:#000000;stroke-opacity:1"
+       style="fill:#00a2ff;fill-opacity:0.445783;stroke:none;stroke-opacity:1"
        id="path1-8-5"
        sodipodi:type="arc"
        sodipodi:cx="24.604113"

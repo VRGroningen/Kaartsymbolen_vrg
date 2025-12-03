@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="51"
-   height="51"
-   viewBox="0 0 51 51"
+   width="52"
+   height="52"
+   viewBox="0 0 52 52"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -28,24 +28,25 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="24.3125"
-     inkscape:cx="25.192802"
-     inkscape:cy="25.562982"
+     inkscape:zoom="12.15625"
+     inkscape:cx="41.912596"
+     inkscape:cy="40.431877"
      inkscape:window-width="3440"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1.1709518,1.561697)">
+     transform="translate(1.6709518,2.061697)">
     <circle
-       style="fill:#000000;fill-opacity:0.60241;stroke:#000000;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:0.60241;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
        cy="23.938303"
        cx="24.329048"
