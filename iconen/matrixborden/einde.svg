@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg1"
-   width="53.333332"
-   height="53.333332"
-   viewBox="0 0 53.333332 53.333332"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <g
-     id="g1">
-    <image
-       width="53.333332"
-       height="53.333332"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAAACXBIWXMAAAsTAAALEwEAmpwYAAAF&#10;8WlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w&#10;TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh&#10;LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2&#10;LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3Jn&#10;LzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0i&#10;IiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJo&#10;dHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFk&#10;b2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1&#10;cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2Jl&#10;LmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0Mg&#10;KE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE3LTEyLTMwVDE0OjU0OjUzKzAxOjAwIiB4&#10;bXA6TWV0YWRhdGFEYXRlPSIyMDE3LTEyLTMwVDE0OjU0OjUzKzAxOjAwIiB4bXA6TW9kaWZ5RGF0&#10;ZT0iMjAxNy0xMi0zMFQxNDo1NDo1MyswMTowMCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo4&#10;NTA3OGMxNi04NmUxLTRhMDMtODRkNy1hOGQ5NjIyNTY1ZDUiIHhtcE1NOkRvY3VtZW50SUQ9ImFk&#10;b2JlOmRvY2lkOnBob3Rvc2hvcDphMDRkNjg0Ni05ODZkLTU0NDgtYTA1MS1iNTNlMTAzOWJlYmUi&#10;IHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxN2RhMTEyMC05NzkyLTQ1YzctODRm&#10;ZS1jNWQ3YjFiMTAyZTMiIGRjOmZvcm1hdD0iaW1hZ2UvcG5nIiBwaG90b3Nob3A6Q29sb3JNb2Rl&#10;PSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiPiA8eG1wTU06SGlz&#10;dG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0&#10;YW5jZUlEPSJ4bXAuaWlkOjE3ZGExMTIwLTk3OTItNDVjNy04NGZlLWM1ZDdiMWIxMDJlMyIgc3RF&#10;dnQ6d2hlbj0iMjAxNy0xMi0zMFQxNDo1NDo1MyswMTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0i&#10;QWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJz&#10;YXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDo4NTA3OGMxNi04NmUxLTRhMDMtODRkNy1h&#10;OGQ5NjIyNTY1ZDUiIHN0RXZ0OndoZW49IjIwMTctMTItMzBUMTQ6NTQ6NTMrMDE6MDAiIHN0RXZ0&#10;OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAoTWFjaW50b3NoKSIgc3RFdnQ6Y2hh&#10;bmdlZD0iLyIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+&#10;IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5Ig5kJAAAC9klEQVRY&#10;he2WsUv7QBTHL20wVMh1cRCONOAaEB1LlzgYHBw7OLVLcRUXM0SXoIOjq3+DTp3iItQhQ6BpHA4C&#10;4hIolDpdg9rSpA73I/QXU5vUDr8f9Du1ycv75Hvv3csBsNJKK/3vYjJFC4Kwt7dXLpd3dna2trY2&#10;Njbe3t5eX187nY5pmo+Pj57nLfkFEUKqqrbb7clstdttVVURQkujKorSbDanGeHfmr7VbDYVRZmb&#10;k50bUa1WLy4utre3AQBhGH58fBBCBoPB+/v7eDxmWXZ9fZ3neQhhoVDI5XKHh4elUglCeHd39yuv&#10;juNQK6PRyPM8wzA0TZNlWRRFCKEoirIsa5pmGEa/3498O46TxneyEELRCg+HQ4yxruuSJHEcF4vk&#10;OK7RaAyHw9iaL1hvVVUjrxjjer1eLBYTI/f39wkh39tNVdXMVEEQaA8HQeB5nq7r6amEkCAIaJ8L&#10;gpANXKvVaBbf9w3DkCQpJfX29vbh4cH3ffq3VqslPpibBS6Xy/QHIaTVar28vCRS7+/veZ6Prlxf&#10;X5+cnLRaLUJILE9amaZJ96vrurIsJ1JjXjVNY1mWYRhZll3XpfvbNM1s4F6vR8G2bYuimIYKAGAY&#10;BgAgiqJt2xTc6/WygWl3hGFoWRaEMA01EoTQsiwKDoJgOY7nUn/rOLHGaagAgDQ1ntnVnU4HAMAw&#10;DM/zlUqF47jvPXx+fn51dRV7kOO4SqXC8zytN82TQbF93Gg00ngFAEiSZBjG3H08U9OTq9/vx+bw&#10;LGqxWNR13fO8xScXmJrVMf1ArdfrGOPRaEQjF5nVAACE0NPTU4x6c3OT+HWSJEnXdYxxtDY/f53y&#10;P4AHg0GhUDg4OMjl/vQgIeTz8xMhlM/nafbNzc3d3d2jo6Pj42NFUUql0traGgDg+fn58vIyc2dN&#10;6/T0dDweU0wQBL7vd7td13Vt27Ysy7Zt13W73a7v+7Suk8nEcZxqtbo4MtLZ2RnGeHrBf3/mSqul&#10;nzL/+XP1SiutNFdfp8Fvej3UvBwAAAAASUVORK5CYII=&#10;"
-       id="image1" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<rect width="64" height="64" fill="black"/>
+<circle cx="32" cy="32" r="18" fill="none" stroke="white" stroke-width="6"/>
+<line x1="20" y1="44" x2="44" y2="20" stroke="white" stroke-width="6"/>
 </svg>
