@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg1"
-   width="40"
-   height="40"
-   viewBox="0 0 40 40"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <g
-     id="g1">
-    <image
-       width="40"
-       height="40"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABHNCSVQICAgIfAhkiAAAA/RJREFU&#10;WIXtmM1vG0UYh5/dsTderxOnUtrYIKV1QwoXKgGHhDRRQyUiFVTU0qgcaaSq8FcQhwviQ1zhxscN&#10;AVJJFDcUpVWFgBY1bk/USZqkCA5NVOdDir12dtfDwYnzQex1auMWKT9ptJ7Z195Hv3ln5l0rgOQJ&#10;lgrQ0QpfXoClz/LXjtbagxRj8AC8+wq83ZUfWL/emK4tYDEGFeD0S1uDt/droWIMKsCl8a03t/dr&#10;oWIMAog+WAavgMh++OYmfH4N/l6sLWAxBoX/wyp+kuVxCxBCYBgGPp8PANM0WVlZQcraGO8KGAgY&#10;nD17huPHT4Ci8ONojO++/Z5Vy6oFH5DPwaLtqXBY/vLzVbmu+K3fZHt7u/TrulQUpeR3q9HKykFF&#10;EYXPhw9HGBgY4NSp1/F4XCegYgkgWipAUVVWUil8Ph+hA0EaGptpa2vjmdZDjMfvsLiwgO04jw/Q&#10;tm0mJ6dI3E3Q1fkyzeGnAfDrXg63HsHMpJmYmCSXyz0eQCkllmUxNz/Pw2QSI1BPc1MDDfvyTra1&#10;HiIev8PCf+SkK+Bm0JmZWRKJBF3HOgmtOamvO2mmmJicqrqTZQMCWLbN3Pw8yXUn9zcQbNxwslRO&#10;CiGor68nGAxiGAZCCGzbdt1PdwUIG07eTSQ41rnhpOGSk4FAgL6+N7l48R16e3sxDJ1709Nks1n3&#10;Zz5K83q98q1zfTIWi8nlhbnCPnk7/rvsaG+X+rZ9MhwOySujI4W40ctDMhQKVWcf3Em2bTM8PML7&#10;g4PMzt4vjEciB3lvh31SCMHy0lKhn3yYJJdzX1S7nuLN+ndOBgk2Hijk5K3x2ywuLuI4Dj6fj+7u&#10;Ll54MV+J3rzxK2Nj10in0yWfUXE1s8XJmT8L45FIC9HoAGdOv4GmaZhmhsymfFufQzdVDCilJG2a&#10;jMfjfPDhR8RiMZaSDwjuC3Hy5Gv0959H0zQsy8J6hAKjavWgbdsMDY8wGI0ydW+mMO7YO+eZstbc&#10;VLXTXkqJaZrE43E+/uRTXu39A5CMjf2EaZpomoaq7t6PqpcjtuNw6YchLo9eASCbzWBZFnWahrLJ&#10;MlmWf1UAFELg9/vRdR2PR+A4Dhkzg+3YAOi6j2AwyHPPHuFgSwvIHCjlO1kxoGHkK+6enhN4hSSb&#10;zZLJrOI4+WNMESqax0so3MzRo88jpYWi1NUOMGAYXOg/T2d3TxnRDutLw+/XUVT3aa5KDpb/ArVR&#10;mTc1NaGqokRsXhUDptIpvvjqa6bv/4V0Vlm1Vgv3lDW3NvAlmteLIuq4fv0qpln6FMn/RoUv7ptf&#10;S6WUW9zcaQIVBVBUMpkMqVQKx6XI3ftnoVLtAVaqPcBKtQdYqf4BAKP/DpvTDQAAAAAASUVORK5C&#10;YII=&#10;"
-       id="image1" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="eo0wCJZPgS51" viewBox="0 0 24 24" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <g>
+    <rect width="23" height="23" rx="1.5" ry="1.5" transform="translate(.5 0.5)" stroke-width="0"></rect>
+    <path d="M22,1c.55,0,1,.45,1,1v20c0,.55-.45,1-1,1h-20c-.55,0-1-.45-1-1L1,2c0-.55.45-1,1-1h20m0-1L2,0C0.9,0,0,0.9,0,2v20c0,1.1.9,2,2,2h20c1.1,0,2-.9,2-2v-20c0-1.1-.9-2-2-2v0Z" fill="#fff" stroke-width="0"></path>
+  </g>
+  <g id="eo0wCJZPgS55" opacity="0">
+    <circle r="1" transform="translate(3 3)" fill="#f2a43a" stroke-width="0"></circle>
+    <circle r="1" transform="translate(21 3)" fill="#f2a43a" stroke-width="0"></circle>
+  </g>
+  <g id="eo0wCJZPgS58" opacity="0">
+    <circle r="1" transform="translate(3 21)" fill="#f2a43a" stroke-width="0"></circle>
+    <circle r="1" transform="translate(21 21)" fill="#f2a43a" stroke-width="0"></circle>
+  </g>
+  <g transform="translate(7.053751 6.987368)">
+    <rect width="1.41" height="9.31" rx="0.5" ry="0.5" transform="matrix(.707107-.707107 0.707107 0.707107-.117502 0.932284)" fill="#fff" stroke-width="0"></rect>
+    <path d="M9.58,1.4h-.55c-.24,0-.43.19-.43.43v6.15c0,.38-.31.7-.7.7h-6.13c-.24,0-.43.19-.43.43v.55c0,.24.19.43.43.43h7.26c0,0,.55,0,.55,0c.24,0,.43-.19.43-.43v-7.82c0-.24-.19-.43-.43-.43v-.01Z" fill="#fff" stroke-width="0"></path>
   </g>
 </svg>
